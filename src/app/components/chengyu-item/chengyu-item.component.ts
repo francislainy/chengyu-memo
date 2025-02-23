@@ -21,7 +21,8 @@ export class ChengyuItemComponent {
 
   openDialog(): void {
     this.dialog.open(ChengyuDetailComponent, {
-      width: '250px',
+      width: '550px',
+      height: '550px',
       data: this.chengyu
     });
   }
