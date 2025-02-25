@@ -7,17 +7,19 @@
     <app-card-decorator [cardClass]="'!w-120 !h-80'">
       <img [src]="data.image" alt="{{ data.chengyu }}" class="w-full h-full object-cover"/>
     </app-card-decorator>
-    <div class="mt-2 ml-4 mr-4 self-start w-full">
-      <p>{{ data.description }}</p>
-      <div class="mt-2">
-        <ul class="list-disc list-inside">
-          @for (phrase of data.phrases; track phrase) {
-            <li>
-              <span>{{ phrase }}</span>
-              <div>Translation</div>
-            </li>
-          }
-        </ul>
+    <div class="self-center">
+      <div class="mt-2 ml-2 mr-2 self-start w-full">
+        <p class="self-center">{{ data.description }}</p>
+        <div class="mt-2">
+          <ul class="list-disc list-inside">
+            @for (phrase of data.phrases; track phrase) {
+              <li>
+                <span>{{ phrase }}</span>
+                <div>Translation</div>
+              </li>
+            }
+          </ul>
+        </div>
       </div>
     </div>
   </div>
