@@ -5,4 +5,5 @@ export interface IChengyu {
   translation: string,
   description: string,
   image: string,
+  phrases?: string[]
 }
