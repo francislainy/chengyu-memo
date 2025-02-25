@@ -3,3 +3,14 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+/* styles.css */
+.custom-dialog-container .mat-mdc-dialog-container {
+  padding: 0;
+}
+
+.custom-dialog-container .mat-mdc-dialog-content {
+  max-height: none;
+  overflow: hidden;
+}

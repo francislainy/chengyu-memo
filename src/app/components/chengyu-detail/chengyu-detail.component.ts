@@ -14,4 +14,3 @@ import {CardDecoratorComponent} from '../card-decorator/card-decorator.component
 export class ChengyuDetailComponent {
   constructor(@Inject(MAT_DIALOG_DATA) public data: IChengyu) {}
 }
-

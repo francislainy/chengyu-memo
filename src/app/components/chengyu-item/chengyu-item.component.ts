@@ -23,6 +23,9 @@ export class ChengyuItemComponent {
     this.dialog.open(ChengyuDetailComponent, {
       width: '550px',
       height: '550px',
+      maxHeight: '90vh', // Add this to prevent dialog from being taller than viewport
+      panelClass: 'custom-dialog-container', // Add this for custom styling
+      autoFocus: false, // This can sometimes help with scrolling issues
       data: this.chengyu
     });
   }

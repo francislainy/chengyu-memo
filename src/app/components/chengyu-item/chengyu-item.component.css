@@ -1,0 +1,11 @@
+/* src/app/components/chengyu-item/chengyu-item.component.css */
+.custom-dialog-container {
+  overflow: auto;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.custom-dialog-content {
+  max-height: 100%;
+  overflow-y: auto;
+}

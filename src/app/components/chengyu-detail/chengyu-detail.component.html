@@ -1,17 +1,23 @@
-<div class="min-h-screen bg-red-100 p-4">
-  <div class="flex flex-col justify-center items-center w-full h-full">
+<!-- chengyu-detail.component.html -->
+<div class="dialog-content bg-red-100 p-6">
+  <div class="flex flex-col justify-center items-center w-full">
     <p class="mt-2">{{ data.chengyu }}</p>
     <p>{{ data.pinyin }}</p>
     <h1 class="mb-2">{{ data.translation }}</h1>
     <app-card-decorator [cardClass]="'!w-120 !h-80'">
       <img [src]="data.image" alt="{{ data.chengyu }}" class="w-full h-full object-cover"/>
     </app-card-decorator>
-    <div class="mt-2 ml-4 mr-4 self-start">
+    <div class="mt-2 ml-4 mr-4 self-start w-full">
       <p>{{ data.description }}</p>
       <div class="mt-2">
-        @for (phrase of data.phrases; track phrase) {
-          <p>{{ phrase }}</p>
-        }
+        <ul class="list-disc list-inside">
+          @for (phrase of data.phrases; track phrase) {
+            <li>
+              <span>{{ phrase }}</span>
+              <div>Translation</div>
+            </li>
+          }
+        </ul>
       </div>
     </div>
   </div>

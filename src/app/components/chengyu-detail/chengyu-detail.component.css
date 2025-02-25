@@ -1,0 +1,16 @@
+/* src/app/components/chengyu-detail/chengyu-detail.component.css */
+/* chengyu-detail.component.css */
+:host {
+  display: block;
+  overflow-y: auto;
+  max-height: 100%;
+}
+
+.dialog-content {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* You'll also need to add this to your global styles.css */
