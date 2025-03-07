@@ -67,9 +67,9 @@
     "id": 5,
     "chengyu": "物美价廉",
     "pinyin": "wù měi jià lián",
-    "image": "na-chengyu.png",
+    "image": "wumeijialian.png",
     "translation": "good quality and cheap/a bargain",
-    "description": "It means getting a bargain is more important than face.",
+    "description": "It describes something that is of good quality and reasonably priced, like a great deal or a bargain. Imagine finding a product that is both high-quality and affordable—it's a win-win situation.",
     "phrases": [
       {
         "id": 1,
@@ -83,7 +83,7 @@
     "id": 6,
     "chengyu": "热泪盈眶",
     "pinyin": "rè lèi yíng kuāng",
-    "image": "na-chengyu.png",
+    "image": "releiyingkuang.png",
     "translation": "eyes brimming with tears of excitement",
     "description": "It describes being extremely moved. Imagine when you recall happy memories, you might be moved to tears.",
     "phrases": [
@@ -99,7 +99,7 @@
     "id": 7,
     "chengyu": "无儿无女",
     "pinyin": "wú ér wú nǚ",
-    "image": "na-chengyu.png",
+    "image": "wuerwunu.png",
     "translation": "childless",
     "description": "It describes someone who has no children. Imagine someone who finds it even harder because they are childless.",
     "phrases": [
@@ -115,7 +115,7 @@
     "id": 8,
     "chengyu": "难以置信",
     "pinyin": "nán yǐ zhì xìn",
-    "image": "na-chengyu.png",
+    "image": "nanyizhixin.png",
     "translation": "hard to believe / incredible",
     "description": "It describes something that is hard to believe. Imagine a brother's wife committing adultery and leaving him, he says: 'I was shocked, it was hard to believe.'",
     "phrases": [
@@ -131,9 +131,9 @@
     "id": 9,
     "chengyu": "一文不值",
     "pinyin": "yī wén bù zhí",
-    "image": "na-chengyu.png",
+    "image": "yiwenbuzhi.png",
     "translation": "not worth a cent; be utterly worthless",
-    "description": "It describes something that is utterly worthless. Imagine feeling trampled and worthless, but Jehovah's love for you does not diminish.",
+    "description": "It describes something that is not worth a cent or is utterly worthless. Imagine feeling like you're not worth anything, but Jehovah's love for you is priceless.",
     "phrases": [
       {
         "id": 1,
@@ -147,7 +147,7 @@
     "id": 10,
     "chengyu": "始终如一",
     "pinyin": "shǐ zhōng rú yī",
-    "image": "na-chengyu.png",
+    "image": "shizhongruyi.png",
     "translation": "unswerving from start to finish; consistently",
     "description": "It describes being consistent from start to finish. Imagine no matter how others treat you, Jehovah's love for you remains consistent.",
     "phrases": [
@@ -163,7 +163,7 @@
     "id": 11,
     "chengyu": "走投无路",
     "pinyin": "zǒu tóu wú lù",
-    "image": "na-chengyu.png",
+    "image": "zoutouwulu.png",
     "translation": "no way out; at an impasse; at a dead end",
     "description": "It describes being at a dead end. Imagine facing severe trials and feeling at a dead end, is there a scripture that particularly comforts you?",
     "phrases": [
@@ -179,7 +179,7 @@
     "id": 12,
     "chengyu": "年复一年",
     "pinyin": "nián fù yī nián",
-    "image": "na-chengyu.png",
+    "image": "nianfuyinian.png",
     "translation": "year after year",
     "description": "It describes something happening year after year.",
     "phrases": [
@@ -195,7 +195,7 @@
     "id": 13,
     "chengyu": "久别重逢",
     "pinyin": "jiǔ bié chóng féng",
-    "image": "na-chengyu.png",
+    "image": "jiubiechongfeng.png",
     "translation": "reunion after a long separation",
     "description": "It describes reuniting after a long separation.",
     "phrases": [
@@ -211,7 +211,7 @@
     "id": 14,
     "chengyu": "丰衣足食",
     "pinyin": "fēng yī zú shí",
-    "image": "na-chengyu.png",
+    "image": "fengyizushi.png",
     "translation": "well-clothed and well-fed",
     "description": "It describes being well-clothed and well-fed.",
     "phrases": [
@@ -227,7 +227,7 @@
     "id": 15,
     "chengyu": "微不足道",
     "pinyin": "wēi bù zú dào",
-    "image": "na-chengyu.png",
+    "image": "weibuzudao.png",
     "translation": "insignificant",
     "description": "It describes something that is insignificant.",
     "phrases": [
@@ -243,7 +243,7 @@
     "id": 16,
     "chengyu": "一无是处",
     "pinyin": "yī wú shì chù",
-    "image": "na-chengyu.png",
+    "image": "yiwushichu.png",
     "translation": "be good for nothing; have nothing worthy of praise",
     "description": "It describes someone who is good for nothing.",
     "phrases": [
@@ -259,7 +259,7 @@
     "id": 17,
     "chengyu": "万众瞩目",
     "pinyin": "wàn zhòng zhǔ mù",
-    "image": "na-chengyu.png",
+    "image": "wanzhongzhumu.png",
     "translation": "very much attention",
     "description": "It describes something that attracts very much attention.",
     "phrases": [
@@ -275,7 +275,7 @@
     "id": 18,
     "chengyu": "无与伦比",
     "pinyin": "wú yǔ lún bǐ",
-    "image": "na-chengyu.png",
+    "image": "wuyulunbi.png",
     "translation": "unparalleled",
     "description": "It describes something that is unparalleled.",
     "phrases": [
@@ -291,7 +291,7 @@
     "id": 19,
     "chengyu": "震耳欲聋",
     "pinyin": "zhèn ěr yù lóng",
-    "image": "na-chengyu.png",
+    "image": "zheneryulong.png",
     "translation": "ear-splitting; deafening",
     "description": "It describes something that is ear-splitting or deafening.",
     "phrases": [
@@ -307,9 +307,9 @@
     "id": 20,
     "chengyu": "言出必行",
     "pinyin": "yán chū bì xíng",
-    "image": "na-chengyu.png",
+    "image": "yanchubixing.png",
     "translation": "suit the action to the word",
-    "description": "It describes someone who suits the action to the word.",
+    "description": "It describes someone who keeps their word.",
     "phrases": [
       {
         "id": 1,
@@ -323,7 +323,7 @@
     "id": 21,
     "chengyu": "挺身而出",
     "pinyin": "tǐng shēn ér chū",
-    "image": "na-chengyu.png",
+    "image": "tingshenerchu.png",
     "translation": "to step forward bravely; come out boldly",
     "description": "It describes someone who steps forward bravely.",
     "phrases": [
