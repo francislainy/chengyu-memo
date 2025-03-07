@@ -12,11 +12,9 @@
         <p class="self-center">{{ data.description }}</p>
         <div class="mt-2">
           <ul class="list-disc list-inside">
-            @for (phrase of data.phrases; track phrase) {
-              <li>
-                <span>{{ phrase }}</span>
-                <div>Translation</div>
-              </li>
+            @for (item of data.phrases; track item.id) {
+              <span (click)="toggleHanzi()" class="text-blue-950">{{ showHanzi ? item.hanzi : item.pinyin }}</span>
+              <div class="text-red-950">{{ item.translation }}</div>
             }
           </ul>
         </div>

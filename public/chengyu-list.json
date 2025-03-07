@@ -6,7 +6,14 @@
     "image": "zhandingjietie-斩钉截铁.png",
     "translation": "cutting nails and slicing iron",
     "description": "It's used to describe a person who is very decisive and resolute, with an attitude of firmness and determination. Imagine someone who makes decisions with such conviction that it's like they're cutting through nails and iron—there's no hesitation or doubt.",
-    "phrases": ["他斩钉截铁地说：‘我一定会成功。’"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "他斩钉截铁地说：'我一定会成功。'",
+        "pinyin": "Tā zhǎn dīng jié tiě de shuō: 'Wǒ yídìng huì chénggōng.'",
+        "translation": "He said decisively: 'I will definitely succeed.'"
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +22,14 @@
     "image": "yijianshuangdiao-箭双雕.png",
     "translation": "one arrow, two eagles",
     "description": "It means achieving two goals with a single action, much like the English phrase \"killing two birds with one stone.\" Imagine a skilled archer releasing a single arrow that hits two eagles at once—it's all about efficiency and skill.",
-    "phrases": ["这次旅行不仅放松了心情，还学到了很多知识，真是一箭双雕。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "这次旅行不仅放松了心情，还学到了很多知识，真是一箭双雕。",
+        "pinyin": "Zhè cì lǚxíng bùjǐn fàngsōng le xīnqíng, hái xuédào le hěnduō zhīshì, zhēnshì yī jiàn shuāng diāo.",
+        "translation": "This trip not only relaxed my mind but also taught me a lot of knowledge, truly killing two birds with one stone."
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,16 +38,30 @@
     "image": "bukesiyi-不可思议.png",
     "translation": "unimaginable, incredible",
     "description": "It's used to describe something that is beyond ordinary comprehension, astonishing, or extraordinary. Imagine witnessing a breathtaking natural phenomenon or an unbelievable feat—it's something so incredible that it defies belief.",
-    "phrases": ["这个奇迹真是不可思议。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "这个奇迹真是不可思议。",
+        "pinyin": "Zhège qíjī zhēnshì bù kě sī yì.",
+        "translation": "This miracle is truly incredible."
+      }
+    ]
   },
   {
     "id": 4,
     "chengyu": "一言为定",
     "pinyin": "yī yán wéi dìng",
     "image": "yiyanweiding-言为定.png",
-    "translation": "one word and it’s settled",
+    "translation": "one word and it's settled",
     "description": "It signifies that once a statement or commitment is made, it is final and binding. Essentially, it's about keeping one's word and standing by a decision or agreement.",
-    "phrases": ["哈哈，放心吧，我们不会吃马肉。我的意思是一言为定"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "哈哈，放心吧，我们不会吃马肉。我的意思是一言为定。",
+        "pinyin": "Hā hā, fàngxīn ba, wǒmen bù huì chī mǎròu. Wǒ de yìsi shì yī yán wéi dìng.",
+        "translation": "Haha, don't worry, we won't eat horse meat. I mean, it's a promise."
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +70,14 @@
     "image": "na-chengyu.png",
     "translation": "good quality and cheap/a bargain",
     "description": "It means getting a bargain is more important than face.",
-    "phrases": ["物美价廉比面子更重要"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "物美价廉比面子更重要。",
+        "pinyin": "Wù měi jià lián bǐ miànzi gèng zhòngyào.",
+        "translation": "A good bargain is more important than saving face."
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +86,14 @@
     "image": "na-chengyu.png",
     "translation": "eyes brimming with tears of excitement",
     "description": "It describes being extremely moved. Imagine when you recall happy memories, you might be moved to tears.",
-    "phrases": ["当你想起快乐的往事时，都可能会热泪盈眶。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "当你想起快乐的往事时，都可能会热泪盈眶。",
+        "pinyin": "Dāng nǐ xiǎngqǐ kuàilè de wǎngshì shí, dōu kěnéng huì rè lèi yíng kuāng.",
+        "translation": "When you recall happy memories, you might be moved to tears."
+      }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +102,14 @@
     "image": "na-chengyu.png",
     "translation": "childless",
     "description": "It describes someone who has no children. Imagine someone who finds it even harder because they are childless.",
-    "phrases": ["更不容易的是，哈拿无儿无女，比妮拿却有不少孩子"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "更不容易的是，哈拿无儿无女，比妮拿却有不少孩子。",
+        "pinyin": "Gèng bù róngyì de shì, Hā ná wú ér wú nǚ, bǐ Ní ná què yǒu bùshǎo háizi.",
+        "translation": "What made it even harder was that Hannah was childless, while Peninnah had several children."
+      }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +118,14 @@
     "image": "na-chengyu.png",
     "translation": "hard to believe / incredible",
     "description": "It describes something that is hard to believe. Imagine a brother's wife committing adultery and leaving him, he says: 'I was shocked, it was hard to believe.'",
-    "phrases": ["一个弟兄的妻子在跟人通奸后离弃了他。他说：“我感到十分震惊、难以置信"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "一个弟兄的妻子在跟人通奸后离弃了他。他说：'我感到十分震惊、难以置信。'",
+        "pinyin": "Yí gè dìxiōng de qīzi zài gēn rén tōngjiān hòu líqì le tā. Tā shuō: 'Wǒ gǎndào shífēn zhènjīng, nán yǐ zhì xìn.'",
+        "translation": "A brother's wife committed adultery with someone and left him. He said, 'I was shocked, it was hard to believe.'"
+      }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +134,14 @@
     "image": "na-chengyu.png",
     "translation": "not worth a cent; be utterly worthless",
     "description": "It describes something that is utterly worthless. Imagine feeling trampled and worthless, but Jehovah's love for you does not diminish.",
-    "phrases": ["就算你感觉遭人践踏、一文不值，耶和华对你的爱也不会因此减少半分"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "就算你感觉遭人践踏、一文不值，耶和华对你的爱也不会因此减少半分。",
+        "pinyin": "Jiùsuàn nǐ gǎnjué zāo rén jiàntà, yī wén bù zhí, Yēhéhuá duì nǐ de ài yě bù huì yīncǐ jiǎnshǎo bànfēn.",
+        "translation": "Even if you feel trampled upon and worthless, Jehovah's love for you will not diminish in the slightest."
+      }
+    ]
   },
   {
     "id": 10,
@@ -87,7 +150,14 @@
     "image": "na-chengyu.png",
     "translation": "unswerving from start to finish; consistently",
     "description": "It describes being consistent from start to finish. Imagine no matter how others treat you, Jehovah's love for you remains consistent.",
-    "phrases": ["不论别人怎么对待你，天父耶和华对你的爱都始终如一。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "不论别人怎么对待你，天父耶和华对你的爱都始终如一。",
+        "pinyin": "Bùlùn biérén zěnme duìdài nǐ, tiānfù Yēhéhuá duì nǐ de ài dōu shǐzhōng rú yī.",
+        "translation": "No matter how others treat you, Heavenly Father Jehovah's love for you remains consistent."
+      }
+    ]
   },
   {
     "id": 11,
@@ -96,7 +166,14 @@
     "image": "na-chengyu.png",
     "translation": "no way out; at an impasse; at a dead end",
     "description": "It describes being at a dead end. Imagine facing severe trials and feeling at a dead end, is there a scripture that particularly comforts you?",
-    "phrases": ["当你面对严峻的考验，甚至觉得走投无路时，有没有哪节经文特别能安慰你呢"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "当你面对严峻的考验，甚至觉得走投无路时，有没有哪节经文特别能安慰你呢。",
+        "pinyin": "Dāng nǐ miànduì yánjùn de kǎoyàn, shènzhì juédé zǒu tóu wú lù shí, yǒu méiyǒu nǎ jié jīngwén tèbié néng ānwèi nǐ ne.",
+        "translation": "When you face severe trials and even feel like you're at a dead end, is there a particular scripture that especially comforts you?"
+      }
+    ]
   },
   {
     "id": 12,
@@ -105,7 +182,14 @@
     "image": "na-chengyu.png",
     "translation": "year after year",
     "description": "It describes something happening year after year.",
-    "phrases": ["年复一年，他都在同一个地方度假。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "年复一年，他都在同一个地方度假。",
+        "pinyin": "Nián fù yī nián, tā dōu zài tóng yī gè dìfāng dùjià.",
+        "translation": "Year after year, he vacations at the same place."
+      }
+    ]
   },
   {
     "id": 13,
@@ -114,7 +198,14 @@
     "image": "na-chengyu.png",
     "translation": "reunion after a long separation",
     "description": "It describes reuniting after a long separation.",
-    "phrases": ["久别重逢的朋友们都非常激动。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "久别重逢的朋友们都非常激动。",
+        "pinyin": "Jiǔ bié chóng féng de péngyǒumen dōu fēicháng jīdòng.",
+        "translation": "Friends reuniting after a long separation were all very excited."
+      }
+    ]
   },
   {
     "id": 14,
@@ -123,7 +214,14 @@
     "image": "na-chengyu.png",
     "translation": "well-clothed and well-fed",
     "description": "It describes being well-clothed and well-fed.",
-    "phrases": ["他们过着丰衣足食的生活。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "他们过着丰衣足食的生活。",
+        "pinyin": "Tāmen guòzhe fēng yī zú shí de shēnghuó.",
+        "translation": "They live a life where they are well-clothed and well-fed."
+      }
+    ]
   },
   {
     "id": 15,
@@ -132,7 +230,14 @@
     "image": "na-chengyu.png",
     "translation": "insignificant",
     "description": "It describes something that is insignificant.",
-    "phrases": ["这个问题在整个计划中显得微不足道。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "这个问题在整个计划中显得微不足道。",
+        "pinyin": "Zhège wèntí zài zhěnggè jìhuà zhōng xiǎndé wēi bù zú dào.",
+        "translation": "This issue seems insignificant in the overall plan."
+      }
+    ]
   },
   {
     "id": 16,
@@ -141,7 +246,14 @@
     "image": "na-chengyu.png",
     "translation": "be good for nothing; have nothing worthy of praise",
     "description": "It describes someone who is good for nothing.",
-    "phrases": ["他觉得自己一无是处。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "他觉得自己一无是处。",
+        "pinyin": "Tā juédé zìjǐ yī wú shì chù.",
+        "translation": "He feels that he is good for nothing."
+      }
+    ]
   },
   {
     "id": 17,
@@ -150,7 +262,14 @@
     "image": "na-chengyu.png",
     "translation": "very much attention",
     "description": "It describes something that attracts very much attention.",
-    "phrases": ["这场演出吸引了万众瞩目。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "这场演出吸引了万众瞩目。",
+        "pinyin": "Zhè chǎng yǎnchū xīyǐn le wàn zhòng zhǔ mù.",
+        "translation": "This performance attracted the attention of many people."
+      }
+    ]
   },
   {
     "id": 18,
@@ -159,7 +278,14 @@
     "image": "na-chengyu.png",
     "translation": "unparalleled",
     "description": "It describes something that is unparalleled.",
-    "phrases": ["他的才华无与伦比。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "他的才华无与伦比。",
+        "pinyin": "Tā de cáihuá wú yǔ lún bǐ.",
+        "translation": "His talent is unparalleled."
+      }
+    ]
   },
   {
     "id": 19,
@@ -168,7 +294,14 @@
     "image": "na-chengyu.png",
     "translation": "ear-splitting; deafening",
     "description": "It describes something that is ear-splitting or deafening.",
-    "phrases": ["音乐声震耳欲聋。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "音乐声震耳欲聋。",
+        "pinyin": "Yīnyuè shēng zhèn ěr yù lóng.",
+        "translation": "The sound of music was deafening."
+      }
+    ]
   },
   {
     "id": 20,
@@ -177,7 +310,14 @@
     "image": "na-chengyu.png",
     "translation": "suit the action to the word",
     "description": "It describes someone who suits the action to the word.",
-    "phrases": ["他是一个言出必行的人。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "他是一个言出必行的人。",
+        "pinyin": "Tā shì yí gè yán chū bì xíng de rén.",
+        "translation": "He is a person who keeps his word."
+      }
+    ]
   },
   {
     "id": 21,
@@ -186,6 +326,13 @@
     "image": "na-chengyu.png",
     "translation": "to step forward bravely; come out boldly",
     "description": "It describes someone who steps forward bravely.",
-    "phrases": ["在危急时刻，他挺身而出。"]
+    "phrases": [
+      {
+        "id": 1,
+        "hanzi": "在危急时刻，他挺身而出。",
+        "pinyin": "Zài wēijí shíkè, tā tǐng shēn ér chū.",
+        "translation": "In a moment of crisis, he stepped forward bravely."
+      }
+    ]
   }
 ]
