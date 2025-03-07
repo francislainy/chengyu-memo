@@ -19,4 +19,16 @@ export class ChengyuDetailComponent {
   toggleHanzi(): void {
     this.showHanzi = !this.showHanzi;
   }
+
+  highlightChengyu(text: string): string {
+    // Check if the text contains the current chengyu
+    if (text.includes(this.data.chengyu)) {
+      // Replace the chengyu with a bold version
+      return text.replace(
+        new RegExp(this.data.chengyu, 'g'),
+        `<span class="text-red-800">${this.data.chengyu}</span>`
+      );
+    }
+    return text;
+  }
 }
