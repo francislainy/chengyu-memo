@@ -37,7 +37,7 @@
     "pinyin": "bù kě sī yì",
     "image": "bukesiyi.png",
     "translation": "unimaginable, incredible",
-    "description": "It's used to describe something that is beyond ordinary comprehension, astonishing, or extraordinary. Imagine witnessing a breathtaking natural phenomenon or an unbelievable feat—it's something so incredible that it defies belief.",
+    "description": "It's used to describe something that is beyond ordinary comprehension, astonishing, or extraordinary. Imagine witnessing a breathtaking natural phenomenon or an unbelievable feat. It's something so incredible that it defies belief.",
     "phrases": [
       {
         "id": 1,
@@ -101,7 +101,7 @@
     "pinyin": "wú ér wú nǚ",
     "image": "wuerwunu.png",
     "translation": "childless",
-    "description": "It describes someone who has no children. Imagine someone who finds it even harder because they are childless.",
+    "description": "It describes someone who has no children. Imagine the challenges and emotions that come with being childless.",
     "phrases": [
       {
         "id": 1,
@@ -117,7 +117,7 @@
     "pinyin": "nán yǐ zhì xìn",
     "image": "nanyizhixin.png",
     "translation": "hard to believe / incredible",
-    "description": "It describes something that is hard to believe. Imagine a brother's wife committing adultery and leaving him, he says: 'I was shocked, it was hard to believe.'",
+    "description": "It describes something that is hard to believe or incredible. Imagine being in a situation where you find it hard to believe what you're seeing or hearing.",
     "phrases": [
       {
         "id": 1,
@@ -133,13 +133,13 @@
     "pinyin": "yī wén bù zhí",
     "image": "yiwenbuzhi.png",
     "translation": "not worth a cent; be utterly worthless",
-    "description": "It describes something that is not worth a cent or is utterly worthless. Imagine feeling like you're not worth anything, but Jehovah's love for you is priceless.",
+    "description": "It describes something that is not worth anything or is utterly worthless.",
     "phrases": [
       {
         "id": 1,
-        "hanzi": "就算你感觉遭人践踏、一文不值，耶和华对你的爱也不会因此减少半分。",
-        "pinyin": "Jiùsuàn nǐ gǎnjué zāo rén jiàntà, yī wén bù zhí, Yēhéhuá duì nǐ de ài yě bù huì yīncǐ jiǎnshǎo bànfēn.",
-        "translation": "Even if you feel trampled upon and worthless, Jehovah's love for you will not diminish in the slightest."
+        "hanzi": "就算你感觉遭人践踏、一文不值，你父母对你的爱也不会因此减少半分。",
+        "pinyin": "Jiùsuàn nǐ gǎnjué zāo rén jiàntà, yī wén bù zhí, nǐ fùmǔ duì nǐ de ài yě bù huì yīncǐ jiǎnshǎo bànfēn.",
+        "translation": "Even if you feel trampled on and worthless, your parents' love for you will not diminish by half."
       }
     ]
   },
@@ -149,13 +149,13 @@
     "pinyin": "shǐ zhōng rú yī",
     "image": "shizhongruyi.png",
     "translation": "unswerving from start to finish; consistently",
-    "description": "It describes being consistent from start to finish. Imagine no matter how others treat you, Jehovah's love for you remains consistent.",
+    "description": "It describes being consistent and unchanging. Imagine someone who is always the same, no matter the circumstances.",
     "phrases": [
       {
         "id": 1,
-        "hanzi": "不论别人怎么对待你，天父耶和华对你的爱都始终如一。",
-        "pinyin": "Bùlùn biérén zěnme duìdài nǐ, tiānfù Yēhéhuá duì nǐ de ài dōu shǐzhōng rú yī.",
-        "translation": "No matter how others treat you, Heavenly Father Jehovah's love for you remains consistent."
+        "hanzi": "不论别人怎么对待你，我对你的爱都始终如一。",
+        "pinyin": "Bùlùn biérén zěnme duìdài nǐ, wǒ duì nǐ de ài dōu shǐzhōng rú yī.",
+        "translation": "No matter how others treat you, my love for you remains the same."
       }
     ]
   },
@@ -165,13 +165,13 @@
     "pinyin": "zǒu tóu wú lù",
     "image": "zoutouwulu.png",
     "translation": "no way out; at an impasse; at a dead end",
-    "description": "It describes being at a dead end. Imagine facing severe trials and feeling at a dead end, is there a scripture that particularly comforts you?",
+    "description": "It describes being at a dead end. Imagine facing severe trials and feeling at a dead end with no way out.",
     "phrases": [
       {
         "id": 1,
-        "hanzi": "当你面对严峻的考验，甚至觉得走投无路时，有没有哪节经文特别能安慰你呢。",
-        "pinyin": "Dāng nǐ miànduì yánjùn de kǎoyàn, shènzhì juédé zǒu tóu wú lù shí, yǒu méiyǒu nǎ jié jīngwén tèbié néng ānwèi nǐ ne.",
-        "translation": "When you face severe trials and even feel like you're at a dead end, is there a particular scripture that especially comforts you?"
+        "hanzi": "他感到走投无路，不知道该怎么办。",
+        "pinyin": "Tā gǎndào zǒu tóu wú lù, bù zhīdào gāi zěnme bàn.",
+        "translation": "He felt at a dead end and didn't know what to do."
       }
     ]
   },
@@ -197,7 +197,7 @@
     "pinyin": "jiǔ bié chóng féng",
     "image": "jiubiechongfeng.png",
     "translation": "reunion after a long separation",
-    "description": "It describes reuniting after a long separation.",
+    "description": "It describes reuniting with someone after a long separation, such as meeting a friend or family member after a long time apart.",
     "phrases": [
       {
         "id": 1,
@@ -213,13 +213,13 @@
     "pinyin": "fēng yī zú shí",
     "image": "fengyizushi.png",
     "translation": "well-clothed and well-fed",
-    "description": "It describes being well-clothed and well-fed.",
+    "description": "It describes being well-clothed and well-fed, living a comfortable life.",
     "phrases": [
       {
         "id": 1,
-        "hanzi": "他们过着丰衣足食的生活。",
-        "pinyin": "Tāmen guòzhe fēng yī zú shí de shēnghuó.",
-        "translation": "They live a life where they are well-clothed and well-fed."
+        "hanzi": "他们生活得很好，丰衣足食。",
+        "pinyin": "Tāmen shēnghuó dé hěn hǎo, fēng yī zú shí.",
+        "translation": "They live well, well-clothed and well-fed."
       }
     ]
   },
@@ -261,7 +261,7 @@
     "pinyin": "wàn zhòng zhǔ mù",
     "image": "wanzhongzhumu.png",
     "translation": "very much attention",
-    "description": "It describes something that attracts very much attention.",
+    "description": "It describes something that attracts very much attention, like a performance or event that captures the audience's interest.",
     "phrases": [
       {
         "id": 1,
@@ -277,7 +277,7 @@
     "pinyin": "wú yǔ lún bǐ",
     "image": "wuyulunbi.png",
     "translation": "unparalleled",
-    "description": "It describes something that is unparalleled.",
+    "description": "It describes something that is unparalleled, unmatched, or incomparable.",
     "phrases": [
       {
         "id": 1,
@@ -293,7 +293,7 @@
     "pinyin": "zhèn ěr yù lóng",
     "image": "zheneryulong.png",
     "translation": "ear-splitting; deafening",
-    "description": "It describes something that is ear-splitting or deafening.",
+    "description": "It describes something that is ear-splitting or deafening, like a loud noise or sound.",
     "phrases": [
       {
         "id": 1,
@@ -308,8 +308,8 @@
     "chengyu": "言出必行",
     "pinyin": "yán chū bì xíng",
     "image": "yanchubixing.png",
-    "translation": "suit the action to the word",
-    "description": "It describes someone who keeps their word.",
+    "translation": "keep one's word; do as one says",
+    "description": "It describes someone who keeps their word, matching their actions to their promises.",
     "phrases": [
       {
         "id": 1,
@@ -325,7 +325,7 @@
     "pinyin": "tǐng shēn ér chū",
     "image": "tingshenerchu.png",
     "translation": "to step forward bravely; come out boldly",
-    "description": "It describes someone who steps forward bravely.",
+    "description": "It describes someone who steps forward bravely, taking action in a difficult or dangerous situation.",
     "phrases": [
       {
         "id": 1,
